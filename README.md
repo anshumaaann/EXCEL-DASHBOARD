@@ -1,60 +1,81 @@
-📊 HR Dashboard – Excel Project
-📌 Project Overview
+# 📊 HR Analytics Dashboard
 
-This HR Dashboard is an interactive and data-driven Excel-based solution designed to help HR professionals and management analyze workforce data efficiently. It transforms raw HR data into meaningful insights through visually appealing charts, KPIs, and performance metrics, enabling better decision-making and strategic workforce planning.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-005571?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-The dashboard focuses on key HR metrics like employee distribution, attrition rate, headcount trends, department-wise performance, and demographic analysis. It is built to simplify complex HR data into a clear and easy-to-understand format for quick business reviews.
+An interactive **Power BI dashboard** that transforms HR data into meaningful business insights. The dashboard provides a comprehensive view of employee demographics, workforce distribution, attrition trends, and key HR metrics to support data-driven decision-making.
 
-🎯 Objectives
+---
 
-To provide a centralized platform for HR data visualization.
-To monitor key HR metrics such as attrition, employee count, and department-wise distribution.
-To support data-driven decision-making in workforce planning and people management.
-To reduce manual reporting effort by automating data insights.
+## 🚀 Features
 
-⚙️ Tools & Technologies Used
+- 📊 Interactive HR Dashboard
+- 👨‍💼 Employee Workforce Analysis
+- 📉 Attrition Tracking
+- 🏢 Department-wise Distribution
+- 👨‍👩‍👧 Gender Diversity Analysis
+- 🎂 Age Group Insights
+- 💰 Salary Analysis
+- 🎓 Education-wise Breakdown
+- 💼 Job Role Analysis
+- 📈 Dynamic KPI Cards
+- 🎛️ Interactive Filters & Slicers
 
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Excel Formulas (VLOOKUP/XLOOKUP, IF, COUNTIF, etc.)
-Data Validation & Conditional Formatting
-Slicers for interactive filtering
+---
 
-📈 Key Features
-Real-time interactive dashboard with filter options.
-Department-wise and gender-wise employee analysis.
-Attrition trends and performance visualization.
-Monthly/Yearly hiring and exit trends.
-Dynamic KPI cards for quick overview.
+## 🛠️ Tech Stack
 
-📂 Dataset
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Microsoft Excel**
 
-The dataset includes employee information such as:
-Employee ID
-Department
-Job Role
-Gender
-Age
-Experience
-Salary
-Joining Date
-Exit Date
+---
 
-(Dataset has been cleaned and processed for dashboard-ready analysis.)
+## 📂 Dataset
 
-🚀 How to Use
+The dashboard is built using a structured HR dataset containing:
 
-Open the Excel file.
-Go to the Dashboard sheet.
-Use the slicers to filter by department, gender, or date.
-View updated charts and KPIs based on your selections.
+- Employee Information
+- Department Details
+- Job Roles
+- Salary
+- Education
+- Gender
+- Age
+- Attrition Status
+- Years at Company
 
-✅ Expected Outcome
+---
 
-This dashboard enables HR teams to:
+## 📈 Dashboard Insights
 
-Identify workforce trends and attrition patterns.
+The dashboard helps organizations:
 
-Improve talent management strategies.
+- Monitor workforce distribution
+- Analyze employee attrition
+- Compare department performance
+- Understand salary patterns
+- Visualize employee demographics
+- Support strategic HR decisions
 
-Quickly generate insights without requiring technical expertise.
+---
+
+## 🎯 Project Objective
+
+To build an interactive HR analytics dashboard that enables organizations to analyze workforce data, identify employee trends, reduce attrition, and make informed HR decisions through dynamic visualizations.
+
+---
+
+## 📸 Dashboard Preview
+
+> Add your dashboard screenshots here.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
